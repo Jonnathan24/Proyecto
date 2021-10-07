@@ -1039,7 +1039,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding: 30px; }
   .testimony img {
-    max-width: 100px;
+    width: 100px;
     border-radius: 50%;
     margin: 0 auto 30px auto; }
   .testimony .sub-title {
@@ -1050,7 +1050,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 20px; }
 
 .site-block-testimony img {
-  max-width: 140px;
+  width: 140px;
   border-radius: 50%; }
 
 .site-block-testimony p {
